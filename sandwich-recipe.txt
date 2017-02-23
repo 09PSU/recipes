@@ -1,0 +1,9 @@
+Ingredients:
++Ok-tasting food
++Better-tasting food
++Bad-tasting food
+
+Directions:
++Take the ok-tasting food, and spread the better-tasting food on top of it. 
++Repeat for 2-3 minutes.
++Throw bad-tasting food on the ground.
